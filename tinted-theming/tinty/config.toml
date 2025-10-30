@@ -1,0 +1,6 @@
+[[items]]
+path = "/home/pl/.local/share/tinted-terminal"
+name = "tinted-terminal-rio"
+themes-dir = "themes-16/rio"
+hook = "/home/pl/.local/bin/tinty-rio-theme %n"
+supported-systems = ["base16", "base24"]

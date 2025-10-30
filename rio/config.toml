@@ -393,3 +393,28 @@ family = "DepartureMono Nerd Font Mono"
 style = "Normal"
 weight = 700
 
+# Old Gruvbox palette kept for reference; uncomment to restore manual colors.
+# [colors]
+# background = '#1D2021'
+# foreground = '#EBDBB2'
+# cursor = '#A3005C'
+#
+# [colors.normal]
+# black = '#1D2021'
+# red = '#FB4934'
+# green = '#8EC07C'
+# yellow = '#FABD2F'
+# blue = '#83A598'
+# magenta = '#A3005C'
+# cyan = '#8DB9A6'
+# white = '#EBDBB2'
+#
+# [colors.bright]
+# black = '#665C54'
+# red = '#FE8019'
+# green = '#B8BB26'
+# yellow = '#EEBE59'
+# blue = '#83A598'
+# magenta = '#FF0080'
+# cyan = '#8EC07C'
+# white = '#FBF1C7'

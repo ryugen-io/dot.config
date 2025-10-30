@@ -1,0 +1,4 @@
+# Ignore everything in ~/.config by default; whitelist explicit paths below.
+/*
+!.gitignore
+!/README.md

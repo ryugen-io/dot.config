@@ -4,8 +4,7 @@
 !/README.md
 !/rio/
 !/rio/config.toml
-rio/themes
-rio/themes/**
+!/rio/themes
 !/tinted-theming/
 !/tinted-theming/tinty/
 !/tinted-theming/tinty/config.toml
